@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "nombre": "Juan",
+      "apellido": "Aguirre"
+    },
+    {
+      "nombre": "Jose",
+      "apellido": "Vazquez"
+    },
+    {
+      "nombre": "Mario",
+      "apellido": "Caliguy"
+    },
+    {
+      "nombre": "Paco",
+      "apellido": "Gomez"
+    }
+  ]
+}
