@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #111;
+  /* background-color: limegreen; */
+  /* background-image: url('https://images.pexels.com/photos/3972650/pexels-photo-3972650.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'); */
+  background-size: contain;
+  background-repeat: no-repeat;
+  font-size: 20px;
+}
+
+.icon {
+  font-size: 28px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+nav {
+  padding: 0;
+}
+
+h2 {
+  height: 300px;
+  /* background-image: url('https://picsum.photos/500/100'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text-2 {
+  padding: 10px 20px;
+}
+
+.text-2__child {
+  padding: 10px 0;
+}
