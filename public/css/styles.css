@@ -18,3 +18,11 @@ body {
 input:checked {
   font-size: 100px;
 }
+
+li a {
+  padding: 10px;
+}
+
+.link3 {
+  background-color: greenyellow;
+}
